@@ -1,3 +1,18 @@
 .box-model{
     border: 5px solid rgb(68, 16, 0);
+    padding: 10px;
+    margin: 20px 10px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
 }
